@@ -615,13 +615,3 @@ Sales_Performance_MIS_Dashboard/
 ├── README.md
 └── Sales_Performance_MIS_Dashboard_Project.xlsx
 ```
-
----
-
-## Project Skills Demonstrated
-
-**Excel:** PivotTables, PivotCharts, Slicers, XLOOKUP, INDEX-MATCH, SUMIFS, COUNTIFS, IF, Conditional Formatting, KPI Reporting, MIS Reporting
-
-**Power Query:** Data Cleaning, Data Standardization, Missing-Value Handling, Duplicate Removal, Data-Type Management, Numerical Validation, Profit Validation
-
-**Analysis:** KPI Calculation, Trend Analysis, Regional Analysis, Category Analysis, Product Analysis, Salesperson Analysis, Discount Analysis
